@@ -1,20 +1,3 @@
-
-
-
-
-# The Unified System of Intentional Thermodynamics (USIT)
-
-![USIT Logo](1000007099.png)
-
-**Authors:** Daniel M. Andreola, Daniel M. Andreola, Jr.
-...
-
-
-
-
-
-
-
 # The Unified System of Intentional Thermodynamics (USIT)
 
 **Authors:** Daniel M. Andreola, Daniel M. Andreola, Jr.  
