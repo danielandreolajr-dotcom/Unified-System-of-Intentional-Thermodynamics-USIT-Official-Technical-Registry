@@ -110,3 +110,62 @@ $$\Phi = \frac{P_g \cdot L_P^2}{\Delta C(V) \cdot \ln(2)}$$
 
 ### Master Integrity Hash
 **SHA-256:** `72095266b16e356c2ebebd37d5e8bb44cc2fb02125d74eeb4e091a0c0a4398f5`
+
+
+## The Four Systemic Pillars
+*   **The Absolute Space:** An absolute, uniform, non-warping 3D coordinate realm[span_8](start_span)[span_8](end_span).
+*   **Boundless Universal Time:** A uniform, strictly unidirectional, forward-motion evolution parameter[span_9](start_span)[span_9](end_span).
+*   **The Universal Substrate:** An absolute field permeating all space, serving as the network for electromagnetic and kinetic propagation[span_10](start_span)[span_10](end_span).
+*   **Conservation of Potential:** Energy is continuously processed through varying states of localized environmental resistance[span_11](start_span)[span_11](end_span).
+
+---
+
+## Technical Derivations & Mathematical Foundations
+*(Summary of Appendix A & Section 4)*
+
+### The Unified Governing Equation
+The fractional frequency shift is derived as[span_12](start_span)[span_12](end_span)[span_13](start_span)[span_13](end_span):
+$$\frac{\Delta \nu}{\nu_0} = \frac{l_P^2 \cdot \Delta C(V)}{R^2 \cdot \ln(2)} \approx 1.00 \times 10^{-43}$$
+
+### Mechanization Highlights
+*   **Kinetic Drag:** Replaces Lorentz transformations with a mechanical vector field of resistance[span_14](start_span)[span_14](end_span)[span_15](start_span)[span_15](end_span).
+*   **Gravitational Alternative:** Mass-induced volumetric displacement replaces spacetime curvature[span_16](start_span)[span_16](end_span).
+*   **Core Extraction:** Resolves singularities by defining them as high-density, macro-stable mechanical engines[span_17](start_span)[span_17](end_span).
+*   **Energy Conversion:** Proved via Shannon-Landauer limits; a configuration of $2.65342 \times 10^{26}$ bits generates the target perturbation of $1.00 \times 10^{-43}$[span_18](start_span)[span_18](end_span).
+
+---
+
+## Technical Specifications & Appendices
+
+### Appendix A: Symbol Table
+| Symbol | Definition |
+| :--- | :--- |
+| $\phi$ | Substrate density field |
+| $\rho_0$ | Reference substrate density |
+| $c$ | Max substrate wave speed |
+| $\Delta C(V)$ | Information content (bits) |
+| $l_P$ | Planck length |
+| $B$ | Magnetic field strength |
+
+### Appendix D: SCRTN V1.1 Summary
+| Parameter | Value |
+| :--- | :--- |
+| Electrical Output | 90.2 W DC |
+| Efficiency | 16.40% |
+| Lifetime | 25+ years |
+| Specific Power | 10.08 W/kg |
+
+---
+
+## Master Synthesis & Integrity
+**Manifesto Date of Record:** July 6, 2026  
+**Final Validation Hash (SHA-256):** `fc8d1dafcbc3ba160b784a9f99db7f0df81a1795551ba86c62c95e51086249e0`
+
+---
+
+## References
+*   USIT-MANIFESTO-V5.0-ABSOLUTE-CLEAN (June 29, 2026)
+*   USIT-APPENDIX-M1-MATRICES (Certified Academic Integration Ledger)
+*   USIT-P1-FINAL-2026 (Metrological Component Architecture)
+*   Landauer, R. (1961). Irreversibility and Heat Generation in the Computing Process.
+  
