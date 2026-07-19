@@ -1,3 +1,4 @@
+
 # The Unified System of Intentional Thermodynamics (USIT)
 
 **Authors:** Daniel M. Andreola, Daniel M. Andreola, Jr.  
@@ -9,7 +10,7 @@
 ## Abstract & Core Premise
 The Unified System of Intentional Thermodynamics (USIT) is a deterministic, mechanical alternative to the geometric abstractions of standard pseudo-Riemannian spacetime. This framework replaces coordinate singularities and non-physical cosmic barriers with a dynamic, reactive vector field of localized thermodynamic environmental resistance.
 
-By establishing an **absolute 3D Euclidean coordinate system** (The Rigid Grid) and a **strictly forward-directed evolution parameter** (Boundless Universal Time), this model translates the underlying mathematical outputs of modern relativity into an engine-driven paradigm of field friction, mechanical drag, and non-local field tension loop dynamics. It preserves 100% of predictive empirical data required for modern technological infrastructure while resolving anomalies across quantum, cosmic, and bio-informational scales.
+By establishing an **absolute 3D Euclidean Black Space** and a **strictly forward-directed evolution parameter** (Boundless Universal Time), this model translates the underlying mathematical outputs of modern relativity into an engine-driven paradigm of field friction, mechanical drag, and non-local field tension loop dynamics. It preserves 100% of predictive empirical data required for modern technological infrastructure while resolving anomalies across quantum, cosmic, and bio-informational scales.
 
 ---
 
@@ -75,6 +76,7 @@ Matching to the USIT target equation confirms consistent coupling with standard 
 *   Consolidated Architectural Report: LVCU & LDI-Array (July 2026)
 *   Landauer, R. (1961). Irreversibility and Heat Generation in the Computing Process.
 *   Einstein, A. (1905). On the Electrodynamics of Moving Bodies.
+  
 
 
 
